@@ -1,6 +1,4 @@
 namespace offsets {
-    // Roblox Version: version-bd08027bb04e4045
-
     inline constexpr uintptr_t Adornee = 0xD0;
     inline constexpr uintptr_t Anchored = 0x1AE;
     inline constexpr uintptr_t AnchoredMask = 0x2;
@@ -174,3 +172,4 @@ namespace offsets {
     inline constexpr uintptr_t WorkspaceToWorld = 0x3D8;
     inline constexpr uintptr_t viewmatrix = 0x120;                 // Updated
 }
+
