@@ -172,5 +172,7 @@ namespace offsets {
     inline constexpr uintptr_t viewmatrix = 0x120;
     inline constexpr uintptr_t PhysicsSenderMaxBandwidthBps = 0x69F6E10; 
     inline constexpr uintptr_t PhysicsSenderMaxBandwidthBpsScaling = 0x69F6E14;
+    inline constexpr uintptr_t DebugDisableTimeoutDisconnect = 0x77E0D48;
 }
+
 
