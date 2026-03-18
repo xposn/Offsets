@@ -116,7 +116,7 @@ namespace offsets {
     inline constexpr uintptr_t Position = 0xE4;
     inline constexpr uintptr_t Primitive = 0x148;
     inline constexpr uintptr_t PrimitiveValidateValue = 0x6;
-    inline constexpr uintptr_t PrimitivesPointer1 = 0x3D8;
+    inline constexpr uintptr_t PrimitivesPointer1 = 0x3E0;
     inline constexpr uintptr_t PrimitivesPointer2 = 0x240;
     inline constexpr uintptr_t ProximityPromptActionText = 0xD0;
     inline constexpr uintptr_t ProximityPromptEnabled = 0x156;
