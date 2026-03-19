@@ -163,7 +163,7 @@ namespace offsets {
     inline constexpr uintptr_t Velocity = 0xF0;
     inline constexpr uintptr_t ViewportSize = 0x2E8;
     inline constexpr uintptr_t VisualEngine = 0x10;
-    inline constexpr uintptr_t VisualEnginePointer = 0x7D78148;
+    inline constexpr uintptr_t VisualEnginePointer = 0x7D891C0;
     inline constexpr uintptr_t VisualEngineToDataModel1 = 0x840;
     inline constexpr uintptr_t VisualEngineToDataModel2 = 0x6F0;
     inline constexpr uintptr_t WalkSpeed = 0x1D4;
