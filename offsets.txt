@@ -54,7 +54,7 @@ namespace offsets {
     inline constexpr uintptr_t ForceNewAFKDuration = 0x1B8;
     inline constexpr uintptr_t FramePositionOffsetX = 0x51C;
     inline constexpr uintptr_t FramePositionOffsetY = 0x524;
-    inline constexpr uintptr_t FramePositionX = 0x508;
+    inline constexpr uintptr_t FramePositionX = 0x518;
     inline constexpr uintptr_t FramePositionY = 0x510;
     inline constexpr uintptr_t FrameRotation = 0x188;
     inline constexpr uintptr_t FrameSizeOffsetX = 0x530;
@@ -174,4 +174,10 @@ namespace offsets {
     inline constexpr uintptr_t PhysicsSenderMaxBandwidthBps = 0x6D74E48;
     inline constexpr uintptr_t PhysicsSenderMaxBandwidthBpsScaling = 0x6D74E40;
     inline constexpr uintptr_t DebugDisableTimeoutDisconnect = 0x7917128;
+
+    // AR2 GUI Offsets
+    inline constexpr uintptr_t GuiAbsolutePosition = 0x110;
+    inline constexpr uintptr_t GuiAbsoluteSize = 0x118;
+    inline constexpr uintptr_t GuiObjectPosition = 0x518;
+    inline constexpr uintptr_t ScreenGuiEnabled = 0x4CC;
 }
