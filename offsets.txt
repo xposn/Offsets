@@ -170,8 +170,8 @@ namespace offsets {
     inline constexpr uintptr_t Workspace = 0x178;
     inline constexpr uintptr_t WorkspaceToWorld = 0x400;
     inline constexpr uintptr_t viewmatrix = 0x130;
-    inline constexpr uintptr_t PhysicsSenderMaxBandwidthBps = 0x6D74E48;
-    inline constexpr uintptr_t PhysicsSenderMaxBandwidthBpsScaling = 0x6D74E40;
+    inline constexpr uintptr_t PhysicsSenderMaxBandwidthBps = 0x6DF7E28;
+    inline constexpr uintptr_t PhysicsSenderMaxBandwidthBpsScaling = 0x6DF7E24;
     inline constexpr uintptr_t DebugDisableTimeoutDisconnect = 0x7917128;
  
     // AR2 GUI Offsets
