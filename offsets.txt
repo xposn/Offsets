@@ -46,7 +46,7 @@ namespace offsets {
     inline constexpr uintptr_t FFlagList = 0x7E71128;
     inline constexpr uintptr_t FFlagToValueGetSet = 0x30;
     inline constexpr uintptr_t FOV = 0x160;
-    inline constexpr uintptr_t FakeDataModelPointer = 0x795A0D8;
+    inline constexpr uintptr_t FakeDataModelPointer = 0x834A988;
     inline constexpr uintptr_t FakeDataModelToDataModel = 0x1C0;
     inline constexpr uintptr_t FogColor = 0xFC;
     inline constexpr uintptr_t FogEnd = 0x134;
@@ -63,7 +63,7 @@ namespace offsets {
     inline constexpr uintptr_t FrameSizeY = 0x52C;
     inline constexpr uintptr_t FrameVisible = 0x5B5;
     inline constexpr uintptr_t GameId = 0x190;
-    inline constexpr uintptr_t GameLoaded = 0x600;
+    inline constexpr uintptr_t GameLoaded = 0x5F8;
     inline constexpr uintptr_t Gravity = 0x1D8;
     inline constexpr uintptr_t Health = 0x194;
     inline constexpr uintptr_t HealthDisplayDistance = 0x348;
@@ -100,7 +100,7 @@ namespace offsets {
     inline constexpr uintptr_t ModuleScriptHash = 0x160;
     inline constexpr uintptr_t MoonTextureId = 0xE0;
     inline constexpr uintptr_t MousePosition = 0xEC;
-    inline constexpr uintptr_t MouseSensitivity = 0x79DB650;
+    inline constexpr uintptr_t MouseSensitivity = 0x83E9530;
     inline constexpr uintptr_t MoveDirection = 0x158;
     inline constexpr uintptr_t Name = 0xB0;
     inline constexpr uintptr_t NameDisplayDistance = 0x358;
@@ -111,7 +111,7 @@ namespace offsets {
     inline constexpr uintptr_t PartSize = 0x1B0;
     inline constexpr uintptr_t Ping = 0xCC;
     inline constexpr uintptr_t PlaceId = 0x198;
-    inline constexpr uintptr_t PlayerConfigurerPointer = 0x7936EF0;
+    inline constexpr uintptr_t PlayerConfigurerPointer = 0x83206A0;
     inline constexpr uintptr_t PlayerMouse = 0xF90;
     inline constexpr uintptr_t Position = 0xE4;
     inline constexpr uintptr_t Primitive = 0x148;
@@ -124,11 +124,11 @@ namespace offsets {
     inline constexpr uintptr_t ProximityPromptHoldDuraction = 0x140;
     inline constexpr uintptr_t ProximityPromptMaxActivationDistance = 0x148;
     inline constexpr uintptr_t ProximityPromptMaxObjectText = 0xF0;
-    inline constexpr uintptr_t ReadOnlyGravity = 0x9A8;
+    inline constexpr uintptr_t ReadOnlyGravity = 0x9B0;
     inline constexpr uintptr_t RenderJobToDataModel = 0x1B0;
     inline constexpr uintptr_t RenderJobToFakeDataModel = 0x38;
     inline constexpr uintptr_t RenderJobToRenderView = 0x1D0;
-    inline constexpr uintptr_t RequireBypass = 0x0;
+    inline constexpr uintptr_t RequireBypass = 0x861;
     inline constexpr uintptr_t RigType = 0x1C8;
     inline constexpr uintptr_t RootPartR15 = 0x478;
     inline constexpr uintptr_t RootPartR6 = 0x4B8;
@@ -149,7 +149,7 @@ namespace offsets {
     inline constexpr uintptr_t SunTextureId = 0x230;
     inline constexpr uintptr_t TagList = 0x0;
     inline constexpr uintptr_t TaskSchedulerMaxFPS = 0xB0;
-    inline constexpr uintptr_t TaskSchedulerPointer = 0x7A08710;
+    inline constexpr uintptr_t TaskSchedulerPointer = 0x8428188;
     inline constexpr uintptr_t Team = 0x2A0;
     inline constexpr uintptr_t TeamColor = 0xD0;
     inline constexpr uintptr_t TextLabelText = 0xDC0;
@@ -162,7 +162,7 @@ namespace offsets {
     inline constexpr uintptr_t Velocity = 0xF0;
     inline constexpr uintptr_t ViewportSize = 0x2E8;
     inline constexpr uintptr_t VisualEngine = 0x10;
-    inline constexpr uintptr_t VisualEnginePointer = 0x7510A58;
+    inline constexpr uintptr_t VisualEnginePointer = 0x7EF81D8;
     inline constexpr uintptr_t VisualEngineToDataModel1 = 0x840;
     inline constexpr uintptr_t VisualEngineToDataModel2 = 0x6F0;
     inline constexpr uintptr_t WalkSpeed = 0x1D4;
@@ -170,8 +170,8 @@ namespace offsets {
     inline constexpr uintptr_t Workspace = 0x178;
     inline constexpr uintptr_t WorkspaceToWorld = 0x400;
     inline constexpr uintptr_t viewmatrix = 0x130;
-    inline constexpr uintptr_t PhysicsSenderMaxBandwidthBps = 0x6DF7E28;
-    inline constexpr uintptr_t PhysicsSenderMaxBandwidthBpsScaling = 0x6DF7E24;
+    inline constexpr uintptr_t PhysicsSenderMaxBandwidthBps = 0x6ed6e0c;
+    inline constexpr uintptr_t PhysicsSenderMaxBandwidthBpsScaling = 0x6ed6e08;
     inline constexpr uintptr_t DebugDisableTimeoutDisconnect = 0x7917128;
  
     // AR2 GUI Offsets
