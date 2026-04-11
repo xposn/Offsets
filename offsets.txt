@@ -173,6 +173,13 @@ namespace offsets {
     inline constexpr uintptr_t PhysicsSenderMaxBandwidthBps = 0x6ed6e0c;
     inline constexpr uintptr_t PhysicsSenderMaxBandwidthBpsScaling = 0x6ed6e08;
     inline constexpr uintptr_t DebugDisableTimeoutDisconnect = 0x7917128;
+
+    // Explorer Offsets
+    inline constexpr uintptr_t ModuleScriptBytecode = 0x150;
+    inline constexpr uintptr_t LocalScriptBytecode = 0x1a8;
+    inline constexpr uintptr_t ScriptBytecode = 0x1a8;
+    inline constexpr uintptr_t BytecodePointer = 0x10;
+    inline constexpr uintptr_t BytecodeSize = 0x20;
  
     // AR2 GUI Offsets
     inline constexpr uintptr_t GuiAbsolutePosition = 0x110;
