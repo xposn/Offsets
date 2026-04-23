@@ -46,8 +46,8 @@ namespace offsets {
     inline constexpr uintptr_t FFlagList = 0x7E71128;
     inline constexpr uintptr_t FFlagToValueGetSet = 0x30;
     inline constexpr uintptr_t FOV = 0x160;
-    inline constexpr uintptr_t FakeDataModelPointer = 0x7A8F908;
-    inline constexpr uintptr_t FakeDataModelToDataModel = 0x1C0;
+    inline constexpr uintptr_t FakeDataModelPointer = 0x7B990F8;
+    inline constexpr uintptr_t FakeDataModelToDataModel = 0x1D0;
     inline constexpr uintptr_t FogColor = 0xFC;
     inline constexpr uintptr_t FogEnd = 0x134;
     inline constexpr uintptr_t FogStart = 0x138;
@@ -93,14 +93,14 @@ namespace offsets {
     inline constexpr uintptr_t MaxHealth = 0x1B4;
     inline constexpr uintptr_t MaxSlopeAngle = 0x1B8;
     inline constexpr uintptr_t MeshPartColor3 = 0x194;
-    inline constexpr uintptr_t MeshPartTexture = 0x318;
+    inline constexpr uintptr_t MeshPartTexture = 0x328;
     inline constexpr uintptr_t ModelInstance = 0x398;
     inline constexpr uintptr_t ModuleScriptByteCode = 0x150;
     inline constexpr uintptr_t ModuleScriptBytecodePointer = 0x10;
     inline constexpr uintptr_t ModuleScriptHash = 0x160;
     inline constexpr uintptr_t MoonTextureId = 0xE0;
     inline constexpr uintptr_t MousePosition = 0xEC;
-    inline constexpr uintptr_t MouseSensitivity = 0x7B2EE10;
+    inline constexpr uintptr_t MouseSensitivity = 0x7C387F0;
     inline constexpr uintptr_t MoveDirection = 0x158;
     inline constexpr uintptr_t Name = 0xB0;
     inline constexpr uintptr_t NameDisplayDistance = 0x358;
@@ -111,8 +111,8 @@ namespace offsets {
     inline constexpr uintptr_t PartSize = 0x1B0;
     inline constexpr uintptr_t Ping = 0xCC;
     inline constexpr uintptr_t PlaceId = 0x198;
-    inline constexpr uintptr_t PlayerConfigurerPointer = 0x7A650D0;
-    inline constexpr uintptr_t PlayerMouse = 0xFC8;
+    inline constexpr uintptr_t PlayerConfigurerPointer = 0x7B6E5A8;
+    inline constexpr uintptr_t PlayerMouse = 0x1158;
     inline constexpr uintptr_t Position = 0xE4;
     inline constexpr uintptr_t Primitive = 0x148;
     inline constexpr uintptr_t PrimitiveValidateValue = 0x6;
@@ -125,7 +125,7 @@ namespace offsets {
     inline constexpr uintptr_t ProximityPromptMaxActivationDistance = 0x148;
     inline constexpr uintptr_t ProximityPromptMaxObjectText = 0xF0;
     inline constexpr uintptr_t ReadOnlyGravity = 0x9C0;
-    inline constexpr uintptr_t RenderJobToDataModel = 0x1B0;
+    inline constexpr uintptr_t RenderJobToDataModel = 0x1C0;
     inline constexpr uintptr_t RenderJobToFakeDataModel = 0x38;
     inline constexpr uintptr_t RenderJobToRenderView = 0x1D0;
     inline constexpr uintptr_t RequireBypass = 0x0;
@@ -149,7 +149,7 @@ namespace offsets {
     inline constexpr uintptr_t SunTextureId = 0x230;
     inline constexpr uintptr_t TagList = 0x0;
     inline constexpr uintptr_t TaskSchedulerMaxFPS = 0xB0;
-    inline constexpr uintptr_t TaskSchedulerPointer = 0x7B68F00;
+    inline constexpr uintptr_t TaskSchedulerPointer = 0x7C73D70;
     inline constexpr uintptr_t Team = 0x2A0;
     inline constexpr uintptr_t TeamColor = 0xD0;
     inline constexpr uintptr_t TextLabelText = 0xDC0;
@@ -162,7 +162,7 @@ namespace offsets {
     inline constexpr uintptr_t Velocity = 0xF0;
     inline constexpr uintptr_t ViewportSize = 0x2E8;
     inline constexpr uintptr_t VisualEngine = 0x10;
-    inline constexpr uintptr_t VisualEnginePointer = 0x763D3D0;
+    inline constexpr uintptr_t VisualEnginePointer = 0x7746018;
     inline constexpr uintptr_t VisualEngineToDataModel1 = 0x840;
     inline constexpr uintptr_t VisualEngineToDataModel2 = 0x6F0;
     inline constexpr uintptr_t WalkSpeed = 0x1D4;
@@ -173,7 +173,7 @@ namespace offsets {
     inline constexpr uintptr_t PhysicsSenderMaxBandwidthBps = 0x6ed6e0c;
     inline constexpr uintptr_t PhysicsSenderMaxBandwidthBpsScaling = 0x6ed6e08;
     inline constexpr uintptr_t DebugDisableTimeoutDisconnect = 0x7917128;
-
+ 
     // Explorer Offsets
     inline constexpr uintptr_t ModuleScriptBytecode = 0x150;
     inline constexpr uintptr_t LocalScriptBytecode = 0x1a8;
