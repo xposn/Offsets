@@ -46,7 +46,7 @@ namespace offsets {
     inline constexpr uintptr_t FFlagList = 0x7E71128;
     inline constexpr uintptr_t FFlagToValueGetSet = 0x30;
     inline constexpr uintptr_t FOV = 0x160;
-    inline constexpr uintptr_t FakeDataModelPointer = 0x7B990F8;
+    inline constexpr uintptr_t FakeDataModelPointer = 0x7B991D8;
     inline constexpr uintptr_t FakeDataModelToDataModel = 0x1D0;
     inline constexpr uintptr_t FogColor = 0xFC;
     inline constexpr uintptr_t FogEnd = 0x134;
@@ -86,7 +86,7 @@ namespace offsets {
     inline constexpr uintptr_t JobsPointer = 0x0;
     inline constexpr uintptr_t JumpPower = 0x1B0;
     inline constexpr uintptr_t LocalPlayer = 0x130;
-    inline constexpr uintptr_t LocalScriptByteCode = 0x1A8;
+    inline constexpr uintptr_t LocalScriptByteCode = 0x0;
     inline constexpr uintptr_t LocalScriptBytecodePointer = 0x10;
     inline constexpr uintptr_t LocalScriptHash = 0x1B8;
     inline constexpr uintptr_t MaterialType = 0x248;
@@ -95,12 +95,12 @@ namespace offsets {
     inline constexpr uintptr_t MeshPartColor3 = 0x194;
     inline constexpr uintptr_t MeshPartTexture = 0x328;
     inline constexpr uintptr_t ModelInstance = 0x398;
-    inline constexpr uintptr_t ModuleScriptByteCode = 0x150;
+    inline constexpr uintptr_t ModuleScriptByteCode = 0x0;
     inline constexpr uintptr_t ModuleScriptBytecodePointer = 0x10;
     inline constexpr uintptr_t ModuleScriptHash = 0x160;
     inline constexpr uintptr_t MoonTextureId = 0xE0;
     inline constexpr uintptr_t MousePosition = 0xEC;
-    inline constexpr uintptr_t MouseSensitivity = 0x7C387F0;
+    inline constexpr uintptr_t MouseSensitivity = 0x7C388D0;
     inline constexpr uintptr_t MoveDirection = 0x158;
     inline constexpr uintptr_t Name = 0xB0;
     inline constexpr uintptr_t NameDisplayDistance = 0x358;
@@ -111,7 +111,7 @@ namespace offsets {
     inline constexpr uintptr_t PartSize = 0x1B0;
     inline constexpr uintptr_t Ping = 0xCC;
     inline constexpr uintptr_t PlaceId = 0x198;
-    inline constexpr uintptr_t PlayerConfigurerPointer = 0x7B6E5A8;
+    inline constexpr uintptr_t PlayerConfigurerPointer = 0x7B6E7E8;
     inline constexpr uintptr_t PlayerMouse = 0x1158;
     inline constexpr uintptr_t Position = 0xE4;
     inline constexpr uintptr_t Primitive = 0x148;
@@ -149,7 +149,7 @@ namespace offsets {
     inline constexpr uintptr_t SunTextureId = 0x230;
     inline constexpr uintptr_t TagList = 0x0;
     inline constexpr uintptr_t TaskSchedulerMaxFPS = 0xB0;
-    inline constexpr uintptr_t TaskSchedulerPointer = 0x7C73D70;
+    inline constexpr uintptr_t TaskSchedulerPointer = 0x7C73E50;
     inline constexpr uintptr_t Team = 0x2A0;
     inline constexpr uintptr_t TeamColor = 0xD0;
     inline constexpr uintptr_t TextLabelText = 0xDC0;
@@ -162,7 +162,7 @@ namespace offsets {
     inline constexpr uintptr_t Velocity = 0xF0;
     inline constexpr uintptr_t ViewportSize = 0x2E8;
     inline constexpr uintptr_t VisualEngine = 0x10;
-    inline constexpr uintptr_t VisualEnginePointer = 0x7746018;
+    inline constexpr uintptr_t VisualEnginePointer = 0x7746260;
     inline constexpr uintptr_t VisualEngineToDataModel1 = 0x840;
     inline constexpr uintptr_t VisualEngineToDataModel2 = 0x6F0;
     inline constexpr uintptr_t WalkSpeed = 0x1D4;
@@ -175,9 +175,9 @@ namespace offsets {
     inline constexpr uintptr_t DebugDisableTimeoutDisconnect = 0x7917128;
  
     // Explorer Offsets
-    inline constexpr uintptr_t ModuleScriptBytecode = 0x150;
-    inline constexpr uintptr_t LocalScriptBytecode = 0x1a8;
-    inline constexpr uintptr_t ScriptBytecode = 0x1a8;
+    inline constexpr uintptr_t ModuleScriptBytecode = 0x0;
+    inline constexpr uintptr_t LocalScriptBytecode = 0x0;
+    inline constexpr uintptr_t ScriptBytecode = 0x0;
     inline constexpr uintptr_t BytecodePointer = 0x10;
     inline constexpr uintptr_t BytecodeSize = 0x20;
  
