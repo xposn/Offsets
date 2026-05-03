@@ -181,13 +181,6 @@ namespace offsets {
     inline constexpr uintptr_t BytecodePointer = 0x10;
     inline constexpr uintptr_t BytecodeSize = 0x20;
 
-    // rivals shit
-    inline constexpr uintptr_t BasePartTransparency=0xF0;
-    inline constexpr uintptr_t BasePartReflectance=0xEC;
-    inline constexpr uintptr_t BasePartCastShadow=0xF5;
-    inline constexpr uintptr_t MeshPartMeshId=0x2F8;
-    inline constexpr uintptr_t MeshPartTextureID=0x328;
-
     // AR2 GUI Offsets
     inline constexpr uintptr_t GuiAbsolutePosition = 0x110;
     inline constexpr uintptr_t GuiAbsoluteSize = 0x118;
