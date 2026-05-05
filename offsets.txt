@@ -170,8 +170,8 @@ namespace offsets {
     inline constexpr uintptr_t Workspace = 0x178;
     inline constexpr uintptr_t WorkspaceToWorld = 0x408;
     inline constexpr uintptr_t viewmatrix = 0x130;
-    inline constexpr uintptr_t PhysicsSenderMaxBandwidthBps = 0x6ed6e0c;
-    inline constexpr uintptr_t PhysicsSenderMaxBandwidthBpsScaling = 0x6ed6e08;
+    inline constexpr uintptr_t PhysicsSenderMaxBandwidthBps = 0x709ce30;
+    inline constexpr uintptr_t PhysicsSenderMaxBandwidthBpsScaling = 0x709ce34;
     inline constexpr uintptr_t DebugDisableTimeoutDisconnect = 0x7917128;
  
     // Explorer Offsets
