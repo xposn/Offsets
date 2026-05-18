@@ -1,0 +1,254 @@
+{
+  "Wind Cloak": {
+    "assetId": "14775984681",
+    "filename": "Wind_Cloak.png"
+  },
+  "Waypoint": {
+    "assetId": "14846350280",
+    "filename": "Waypoint.png"
+  },
+  "Titan Blade": {
+    "assetId": "15460700443",
+    "filename": "Titan_Blade.png"
+  },
+  "Absolute Confidence": {
+    "assetId": "16043669032",
+    "filename": "Absolute_Confidence.png"
+  },
+  "Time Hole": {
+    "assetId": "16125258147",
+    "filename": "Time_Hole.png"
+  },
+  "Thunder Dash": {
+    "assetId": "14520169908",
+    "filename": "Thunder_Dash.png"
+  },
+  "Telekinesis": {
+    "assetId": "14520967276",
+    "filename": "Telekinesis.png"
+  },
+  "Tact": {
+    "assetId": "15519272506",
+    "filename": "Tact.png"
+  },
+  "Swap": {
+    "assetId": "14919629746",
+    "filename": "Swap.png"
+  },
+  "Super Jump": {
+    "assetId": "14021421360",
+    "filename": "Super_Jump.png"
+  },
+  "Shadow Step": {
+    "assetId": "14021534179",
+    "filename": "Shadow_Step.png"
+  },
+  "Serpent Shadow Clone": {
+    "assetId": "15508130858",
+    "filename": "Serpent_Shadow_Clone.png"
+  },
+  "Reaper": {
+    "assetId": "14970058573",
+    "filename": "Reaper.png"
+  },
+  "Rapture": {
+    "assetId": "14722857062",
+    "filename": "Rapture.png"
+  },
+  "Raging Deflection": {
+    "assetId": "14521129740",
+    "filename": "Raging_Deflection.png"
+  },
+  "Quantum Arena": {
+    "assetId": "15519219917",
+    "filename": "Quantum_Arena.png"
+  },
+  "Quad Jump": {
+    "assetId": "15060531535",
+    "filename": "Quad_Jump.png"
+  },
+  "Pulse": {
+    "assetId": "15254161203",
+    "filename": "Pulse.png"
+  },
+  "Pull": {
+    "assetId": "14787894058",
+    "filename": "Pull.png"
+  },
+  "Platform": {
+    "assetId": "14377836406",
+    "filename": "Platform.png"
+  },
+  "Phase Bypass": {
+    "assetId": "14776121201",
+    "filename": "Phase_Bypass.png"
+  },
+  "Phantom": {
+    "assetId": "15059341639",
+    "filename": "Phantom.png"
+  },
+  "Martyrdom": {
+    "assetId": "15956418433",
+    "filename": "Martyrdom.png"
+  },
+  "Invisibility": {
+    "assetId": "14032499286",
+    "filename": "Invisibility.png"
+  },
+  "Infinity": {
+    "assetId": "14852723022",
+    "filename": "Infinity.png"
+  },
+  "Freeze Trap": {
+    "assetId": "15705640619",
+    "filename": "Freeze_Trap.png"
+  },
+  "Freeze": {
+    "assetId": "14852741510",
+    "filename": "Freeze.png"
+  },
+  "Forcefield": {
+    "assetId": "14521165734",
+    "filename": "Forcefield.png"
+  },
+  "Force": {
+    "assetId": "15311827388",
+    "filename": "Force.png"
+  },
+  "Flash Counter": {
+    "assetId": "15640516067",
+    "filename": "Flash_Counter.png"
+  },
+  "Dribble": {
+    "assetId": "15705640503",
+    "filename": "Dribble.png"
+  },
+  "Dragon Spirit": {
+    "assetId": "16303482361",
+    "filename": "Dragon_Spirit.png"
+  },
+  "Death Slash": {
+    "assetId": "15448381140",
+    "filename": "Death_Slash.png"
+  },
+  "Dash": {
+    "assetId": "13735989240",
+    "filename": "Dash.png"
+  },
+  "Continuity Zero": {
+    "assetId": "15797061567",
+    "filename": "Continuity_Zero.png"
+  },
+  "Calming Deflection": {
+    "assetId": "15572578968",
+    "filename": "Calming_Deflection.png"
+  },
+  "Blink": {
+    "assetId": "15059338710",
+    "filename": "Blink.png"
+  },
+  "Hell Hook": {
+    "assetId": "16399064949",
+    "filename": "Hell_Hook.png"
+  },
+  "Singularity": {
+    "assetId": "16680650414",
+    "filename": "Singularity.png"
+  },
+  "Qi-Charge": {
+    "assetId": "16830265294",
+    "filename": "Qi-Charge.png"
+  },
+  "Quasar": {
+    "assetId": "16680889459",
+    "filename": "Quasar.png"
+  },
+  "Bunny Leap": {
+    "assetId": "16931437185",
+    "filename": "Bunny_Leap.png"
+  },
+  "Chieftain's Totem": {
+    "assetId": "17124812285",
+    "filename": "Chieftain_s_Totem.png"
+  },
+  "Slash of Duality": {
+    "assetId": "17128015725",
+    "filename": "Slash_of_Duality.png"
+  },
+  "Luck": {
+    "assetId": "17310572630",
+    "filename": "Luck.png"
+  },
+  "Scopophobia": {
+    "assetId": "17452479204",
+    "filename": "Scopophobia.png"
+  },
+  "Encrypted Clone": {
+    "assetId": "17524787969",
+    "filename": "Encrypted_Clone.png"
+  },
+  "Bounty": {
+    "assetId": "17676181458",
+    "filename": "Bounty.png"
+  },
+  "Blade Trap": {
+    "assetId": "17854875234",
+    "filename": "Blade_Trap.png"
+  },
+  "Slashes of Fury": {
+    "assetId": "18259308907",
+    "filename": "Slashes_of_Fury.png"
+  },
+  "Aerodynamic Slash": {
+    "assetId": "18472377817",
+    "filename": "Aerodynamic_Slash.png"
+  },
+  "Doppelganger": {
+    "assetId": "18678613299",
+    "filename": "Doppelganger.png"
+  },
+  "Misfortune": {
+    "assetId": "72560955668401",
+    "filename": "Misfortune.png"
+  },
+  "Necromancer": {
+    "assetId": "77673867994251",
+    "filename": "Necromancer.png"
+  },
+  "Guardian Angel": {
+    "assetId": "18976778874",
+    "filename": "Guardian_Angel.png"
+  },
+  "Golden Ball": {
+    "assetId": "92708866707047",
+    "filename": "Golden_Ball.png"
+  },
+  "Fracture": {
+    "assetId": "71707751320845",
+    "filename": "Fracture.png"
+  },
+  "Gale's Edge": {
+    "assetId": "138912896214269",
+    "filename": "Gale_s_Edge.png"
+  },
+  "Ninja Dash": {
+    "assetId": "130949514091160",
+    "filename": "Ninja_Dash.png"
+  },
+  "Displace": {
+    "assetId": "70703662580732",
+    "filename": "Displace.png"
+  },
+  "Virus": {
+    "assetId": "99692346311259",
+    "filename": "Virus.png"
+  },
+  "Event Horizon": {
+    "assetId": "95669626905012",
+    "filename": "Event_Horizon.png"
+  },
+  "Zeus' Storm": {
+    "assetId": "139213245762312",
+    "filename": "Zeus_Storm.png"
+  }
+}
