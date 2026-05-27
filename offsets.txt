@@ -137,6 +137,7 @@ namespace offsets {
     inline constexpr uintptr_t Sandboxed = 0xC5;
     inline constexpr uintptr_t ScriptContext = 0x440;
     inline constexpr uintptr_t Sit = 0x1E9;
+    inline constexpr uintptr_t Size = 0x540;
     inline constexpr uintptr_t SkyboxBk = 0x110;
     inline constexpr uintptr_t SkyboxDn = 0x140;
     inline constexpr uintptr_t SkyboxFt = 0x170;
