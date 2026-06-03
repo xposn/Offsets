@@ -46,22 +46,22 @@ namespace offsets {
     inline constexpr uintptr_t FFlagList = 0x7E71128;
     inline constexpr uintptr_t FFlagToValueGetSet = 0x30;
     inline constexpr uintptr_t FOV = 0x160;
-    inline constexpr uintptr_t FakeDataModelPointer = 0x78CF1D8;
+    inline constexpr uintptr_t FakeDataModelPointer = 0x78FF228;
     inline constexpr uintptr_t FakeDataModelToDataModel = 0x1D0;
     inline constexpr uintptr_t FogColor = 0x104;
     inline constexpr uintptr_t FogEnd = 0x13C;
     inline constexpr uintptr_t FogStart = 0x140;
     inline constexpr uintptr_t ForceNewAFKDuration = 0x1B8;
-    inline constexpr uintptr_t FramePositionOffsetX = 0x524;
-    inline constexpr uintptr_t FramePositionOffsetY = 0x52C;
-    inline constexpr uintptr_t FramePositionX = 0x520;
-    inline constexpr uintptr_t FramePositionY = 0x518;
+    inline constexpr uintptr_t FramePositionOffsetX = 0x514;
+    inline constexpr uintptr_t FramePositionOffsetY = 0x51C;
+    inline constexpr uintptr_t FramePositionX = 0x510;
+    inline constexpr uintptr_t FramePositionY = 0x508;
     inline constexpr uintptr_t FrameRotation = 0x188;
-    inline constexpr uintptr_t FrameSizeOffsetX = 0x538;
-    inline constexpr uintptr_t FrameSizeOffsetY = 0x53C;
-    inline constexpr uintptr_t FrameSizeX = 0x530;
-    inline constexpr uintptr_t FrameSizeY = 0x534;
-    inline constexpr uintptr_t FrameVisible = 0x5BD;
+    inline constexpr uintptr_t FrameSizeOffsetX = 0x528;
+    inline constexpr uintptr_t FrameSizeOffsetY = 0x52C;
+    inline constexpr uintptr_t FrameSizeX = 0x520;
+    inline constexpr uintptr_t FrameSizeY = 0x524;
+    inline constexpr uintptr_t FrameVisible = 0x5AD;
     inline constexpr uintptr_t GameId = 0x198;
     inline constexpr uintptr_t GameLoaded = 0x638;
     inline constexpr uintptr_t Gravity = 0x210;
@@ -112,7 +112,7 @@ namespace offsets {
     inline constexpr uintptr_t Ping = 0xCC;
     inline constexpr uintptr_t PlaceId = 0x1A0;
     inline constexpr uintptr_t PlayerConfigurerPointer = 0x0;
-    inline constexpr uintptr_t PlayerMouse = 0x1178;
+    inline constexpr uintptr_t PlayerMouse = 0x1180;
     inline constexpr uintptr_t Position = 0xEC;
     inline constexpr uintptr_t Primitive = 0x148;
     inline constexpr uintptr_t PrimitiveValidateValue = 0x6;
@@ -137,7 +137,7 @@ namespace offsets {
     inline constexpr uintptr_t Sandboxed = 0xC5;
     inline constexpr uintptr_t ScriptContext = 0x440;
     inline constexpr uintptr_t Sit = 0x1E9;
-    inline constexpr uintptr_t Size = 0x540;
+    inline constexpr uintptr_t Size = 0x530;
     inline constexpr uintptr_t SkyboxBk = 0x110;
     inline constexpr uintptr_t SkyboxDn = 0x140;
     inline constexpr uintptr_t SkyboxFt = 0x170;
@@ -150,11 +150,11 @@ namespace offsets {
     inline constexpr uintptr_t SunTextureId = 0x230;
     inline constexpr uintptr_t TagList = 0x0;
     inline constexpr uintptr_t TaskSchedulerMaxFPS = 0xB0;
-    inline constexpr uintptr_t TaskSchedulerPointer = 0x7E5F678;
+    inline constexpr uintptr_t TaskSchedulerPointer = 0x7E90548;
     inline constexpr uintptr_t Team = 0x2B0;
     inline constexpr uintptr_t TeamColor = 0xD0;
-    inline constexpr uintptr_t TextLabelText = 0xDB0;
-    inline constexpr uintptr_t TextLabelVisible = 0x5BD;
+    inline constexpr uintptr_t TextLabelText = 0xDA0;
+    inline constexpr uintptr_t TextLabelVisible = 0x5AD;
     inline constexpr uintptr_t Tool_Grip_Position = 0x4BC;
     inline constexpr uintptr_t Transparency = 0xF0;
     inline constexpr uintptr_t UserId = 0x2D8;
@@ -163,7 +163,7 @@ namespace offsets {
     inline constexpr uintptr_t Velocity = 0xF8;
     inline constexpr uintptr_t ViewportSize = 0x2E8;
     inline constexpr uintptr_t VisualEngine = 0x10;
-    inline constexpr uintptr_t VisualEnginePointer = 0x7FED100;
+    inline constexpr uintptr_t VisualEnginePointer = 0x801DFB0;
     inline constexpr uintptr_t VisualEngineToDataModel1 = 0x840;
     inline constexpr uintptr_t VisualEngineToDataModel2 = 0x6F0;
     inline constexpr uintptr_t WalkSpeed = 0x1DC;
@@ -185,6 +185,6 @@ namespace offsets {
     // AR2 GUI Offsets
     inline constexpr uintptr_t GuiAbsolutePosition = 0x110;
     inline constexpr uintptr_t GuiAbsoluteSize = 0x118;
-    inline constexpr uintptr_t GuiObjectPosition = 0x520;
-    inline constexpr uintptr_t ScreenGuiEnabled = 0x4D4;
+    inline constexpr uintptr_t GuiObjectPosition = 0x510;
+    inline constexpr uintptr_t ScreenGuiEnabled = 0x4C4;
 }
