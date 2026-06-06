@@ -94,7 +94,7 @@ namespace offsets {
     inline constexpr uintptr_t MaxSlopeAngle = 0x1B8;
     inline constexpr uintptr_t MeshPartColor3 = 0x194;
     inline constexpr uintptr_t MeshPartTexture = 0x330;
-    inline constexpr uintptr_t ModelInstance = 0x280;
+    inline constexpr uintptr_t ModelInstance = 0x3A8;
     inline constexpr uintptr_t ModuleScriptByteCode = 0x150;
     inline constexpr uintptr_t ModuleScriptBytecodePointer = 0x10;
     inline constexpr uintptr_t ModuleScriptHash = 0x160;
