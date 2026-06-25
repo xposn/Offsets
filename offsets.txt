@@ -175,6 +175,11 @@ namespace offsets {
     inline constexpr uintptr_t PhysicsSenderMaxBandwidthBpsScaling = 0x77844d8;
     inline constexpr uintptr_t DebugDisableTimeoutDisconnect = 0x7917128;
 
+    // Attributes
+    inline constexpr uintptr_t ComponentMap = 0x38;
+    inline constexpr uintptr_t AttributeKey = 0x0;
+    inline constexpr uintptr_t AttributesMapAttributes = 0x10;
+
     // Explorer Offsets
     inline constexpr uintptr_t ModuleScriptBytecode = 0x150;
     inline constexpr uintptr_t LocalScriptBytecode = 0x1A8;
