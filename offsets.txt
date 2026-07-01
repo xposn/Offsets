@@ -33,7 +33,7 @@ namespace offsets {
     inline constexpr uintptr_t ClockTime = 0x1C0;
     inline constexpr uintptr_t CreatorId = 0x198;
     inline constexpr uintptr_t DataModelDeleterPointer = 0x81D3EB0;
-    inline constexpr uintptr_t DataModelPrimitiveCount = 0x4A0;
+    inline constexpr uintptr_t DataModelPrimitiveCount = 0x488;
     inline constexpr uintptr_t DataModelToRenderView1 = 0x1E0;
     inline constexpr uintptr_t DataModelToRenderView2 = 0x8;
     inline constexpr uintptr_t DataModelToRenderView3 = 0x28;
