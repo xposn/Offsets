@@ -16,8 +16,8 @@ namespace offsets {
     inline constexpr uintptr_t CameraMaxZoomDistance = 0x368;
     inline constexpr uintptr_t CameraMinZoomDistance = 0x36c;
     inline constexpr uintptr_t CameraMode = 0x370;
-    inline constexpr uintptr_t CameraPos = 0xec;
-    inline constexpr uintptr_t CameraRotation = 0xc8;
+    inline constexpr uintptr_t CameraPos = 0xfc;         // was 0xec
+    inline constexpr uintptr_t CameraRotation = 0xd8;    // was 0xc8
     inline constexpr uintptr_t CameraSubject = 0xc8;
     inline constexpr uintptr_t CameraType = 0x138;
     inline constexpr uintptr_t CanCollide = 0x8;
