@@ -16,8 +16,8 @@ namespace offsets {
     inline constexpr uintptr_t CameraMaxZoomDistance = 0x368;
     inline constexpr uintptr_t CameraMinZoomDistance = 0x36c;
     inline constexpr uintptr_t CameraMode = 0x370;
-    inline constexpr uintptr_t CameraPos = 0xfc;         // was 0xec
-    inline constexpr uintptr_t CameraRotation = 0xd8;    // was 0xc8
+    inline constexpr uintptr_t CameraPos = 0xfc;      
+    inline constexpr uintptr_t CameraRotation = 0xd8;  
     inline constexpr uintptr_t CameraSubject = 0xc8;
     inline constexpr uintptr_t CameraType = 0x138;
     inline constexpr uintptr_t CanCollide = 0x8;
@@ -46,8 +46,8 @@ namespace offsets {
     inline constexpr uintptr_t FFlagList = 0x7E71128;
     inline constexpr uintptr_t FFlagToValueGetSet = 0x30;
     inline constexpr uintptr_t FOV = 0x140;
-    inline constexpr uintptr_t FakeDataModelPointer = 0x84a9e98;   // CHANGED
-    inline constexpr uintptr_t FakeDataModelToDataModel = 0x1d0;    // CHANGED
+    inline constexpr uintptr_t FakeDataModelPointer = 0x84a9e98;  
+    inline constexpr uintptr_t FakeDataModelToDataModel = 0x1d0; 
     inline constexpr uintptr_t FogColor = 0xec;
     inline constexpr uintptr_t FogEnd = 0x124;
     inline constexpr uintptr_t FogStart = 0x128;
@@ -150,9 +150,9 @@ namespace offsets {
     inline constexpr uintptr_t SunTextureId = 0x218;
     inline constexpr uintptr_t TagList = 0x0;
     inline constexpr uintptr_t TaskSchedulerMaxFPS = 0xb0;
-    inline constexpr uintptr_t TaskSchedulerPointer = 0x8041ec8;    // CHANGED
+    inline constexpr uintptr_t TaskSchedulerPointer = 0x8041ec8;   
     inline constexpr uintptr_t Team = 0x2d8;
-    inline constexpr uintptr_t TeamColor = 0x3ac;                   // CHANGED (was 0x184)
+    inline constexpr uintptr_t TeamColor = 0x3ac;               
     inline constexpr uintptr_t TextLabelText = 0xda0;
     inline constexpr uintptr_t TextLabelVisible = 0x5ad;
     inline constexpr uintptr_t Tool_Grip_Position = 0x4ac;
@@ -168,9 +168,9 @@ namespace offsets {
     inline constexpr uintptr_t VisualEngineToDataModel2 = 0x1d0;
     inline constexpr uintptr_t WalkSpeed = 0x1d0;
     inline constexpr uintptr_t WalkSpeedCheck = 0x3bc;
-    inline constexpr uintptr_t Workspace = 0x160;                   // CHANGED
+    inline constexpr uintptr_t Workspace = 0x160;                 
     inline constexpr uintptr_t WorkspaceToWorld = 0x3e0;
-    inline constexpr uintptr_t viewmatrix = 0x160;                  // CHANGED (was 0x150, likely stale copy of Workspace)
+    inline constexpr uintptr_t viewmatrix = 0x150;                 
     inline constexpr uintptr_t PhysicsSenderMaxBandwidthBps = 0x77844c0;
     inline constexpr uintptr_t PhysicsSenderMaxBandwidthBpsScaling = 0x77844d8;
     inline constexpr uintptr_t DebugDisableTimeoutDisconnect = 0x7917128;
