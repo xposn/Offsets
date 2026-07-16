@@ -46,7 +46,7 @@ namespace offsets {
     inline constexpr uintptr_t FFlagList = 0x7E71128;
     inline constexpr uintptr_t FFlagToValueGetSet = 0x30;
     inline constexpr uintptr_t FOV = 0x140;
-    inline constexpr uintptr_t FakeDataModelPointer = 0x851f568;  
+    inline constexpr uintptr_t FakeDataModelPointer = 0x7d28508;  
     inline constexpr uintptr_t FakeDataModelToDataModel = 0x1d0; 
     inline constexpr uintptr_t FogColor = 0xec;
     inline constexpr uintptr_t FogEnd = 0x124;
@@ -150,7 +150,7 @@ namespace offsets {
     inline constexpr uintptr_t SunTextureId = 0x218;
     inline constexpr uintptr_t TagList = 0x0;
     inline constexpr uintptr_t TaskSchedulerMaxFPS = 0xb0;
-    inline constexpr uintptr_t TaskSchedulerPointer = 0x80b7468;   
+    inline constexpr uintptr_t TaskSchedulerPointer = 0x82b9f48;   
     inline constexpr uintptr_t Team = 0x2d8;
     inline constexpr uintptr_t TeamColor = 0x3ac;               
     inline constexpr uintptr_t TextLabelText = 0xda0;
@@ -163,7 +163,7 @@ namespace offsets {
     inline constexpr uintptr_t Velocity = 0xf8;
     inline constexpr uintptr_t ViewportSize = 0x2c8;
     inline constexpr uintptr_t VisualEngine = 0x10;
-    inline constexpr uintptr_t VisualEnginePointer = 0x824b728;
+    inline constexpr uintptr_t VisualEnginePointer = 0x8447c68;
     inline constexpr uintptr_t VisualEngineToDataModel1 = 0xa90;
     inline constexpr uintptr_t VisualEngineToDataModel2 = 0x1d0;
     inline constexpr uintptr_t WalkSpeed = 0x1d0;
