@@ -190,6 +190,6 @@ namespace offsets {
     // AR2 GUI Offsets
     inline constexpr uintptr_t GuiAbsolutePosition = 0xf8;
     inline constexpr uintptr_t GuiAbsoluteSize = 0x100;
-    inline constexpr uintptr_t GuiObjectPosition = 0xec;
+    inline constexpr uintptr_t GuiObjectPosition = 0x510;
     inline constexpr uintptr_t ScreenGuiEnabled = 0x4c4;
 }
