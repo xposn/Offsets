@@ -158,7 +158,7 @@ namespace offsets {
     inline constexpr uintptr_t Tool_Grip_Position = 0x4ac;
     inline constexpr uintptr_t Transparency = 0xd0;
     inline constexpr uintptr_t UserId = 0x300;
-    inline constexpr uintptr_t Value = 0xc8;
+    inline constexpr uintptr_t Value = 0xb8;
     inline constexpr uintptr_t ValueGetSetToValue = 0xC0;
     inline constexpr uintptr_t Velocity = 0xf8;
     inline constexpr uintptr_t ViewportSize = 0x2c8;
