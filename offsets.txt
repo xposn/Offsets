@@ -46,7 +46,7 @@ namespace offsets {
     inline constexpr uintptr_t FFlagList = 0x7E71128;
     inline constexpr uintptr_t FFlagToValueGetSet = 0x30;
     inline constexpr uintptr_t FOV = 0x140;
-    inline constexpr uintptr_t FakeDataModelPointer = 0x85c6908;
+    inline constexpr uintptr_t FakeDataModelPointer = 0x7dccd88;
     inline constexpr uintptr_t FakeDataModelToDataModel = 0x1d0;
     inline constexpr uintptr_t FogColor = 0xec;
     inline constexpr uintptr_t FogEnd = 0x124;
@@ -100,7 +100,7 @@ namespace offsets {
     inline constexpr uintptr_t ModuleScriptHash = 0x148;
     inline constexpr uintptr_t MoonTextureId = 0xc8;
     inline constexpr uintptr_t MousePosition = 0xd4;
-    inline constexpr uintptr_t MouseSensitivity = 0x0;
+    inline constexpr uintptr_t MouseSensitivity = 0x7f90688;
     inline constexpr uintptr_t MoveDirection = 0x140;
     inline constexpr uintptr_t Name = 0x98;
     inline constexpr uintptr_t NameDisplayDistance = 0x3a0;
@@ -150,20 +150,20 @@ namespace offsets {
     inline constexpr uintptr_t SunTextureId = 0x218;
     inline constexpr uintptr_t TagList = 0x0;
     inline constexpr uintptr_t TaskSchedulerMaxFPS = 0xb0;
-    inline constexpr uintptr_t TaskSchedulerPointer = 0x815d398;
+    inline constexpr uintptr_t TaskSchedulerPointer = 0x836aae8;
     inline constexpr uintptr_t Team = 0x2d8;
     inline constexpr uintptr_t TeamColor = 0x3ac;
     inline constexpr uintptr_t TextLabelText = 0xda0;
     inline constexpr uintptr_t TextLabelVisible = 0x5ad;
     inline constexpr uintptr_t Tool_Grip_Position = 0x4ac;
     inline constexpr uintptr_t Transparency = 0xd0;
-    inline constexpr uintptr_t UserId = 0x300;
+    inline constexpr uintptr_t UserId = 0xd0;
     inline constexpr uintptr_t Value = 0xb8;
     inline constexpr uintptr_t ValueGetSetToValue = 0xC0;
     inline constexpr uintptr_t Velocity = 0xf8;
     inline constexpr uintptr_t ViewportSize = 0x2c8;
     inline constexpr uintptr_t VisualEngine = 0x10;
-    inline constexpr uintptr_t VisualEnginePointer = 0x82f16a8;
+    inline constexpr uintptr_t VisualEnginePointer = 0x84f8808;
     inline constexpr uintptr_t VisualEngineToDataModel1 = 0xa90;
     inline constexpr uintptr_t VisualEngineToDataModel2 = 0x1d0;
     inline constexpr uintptr_t WalkSpeed = 0x1d0;
@@ -171,8 +171,8 @@ namespace offsets {
     inline constexpr uintptr_t Workspace = 0x160;
     inline constexpr uintptr_t WorkspaceToWorld = 0x3e0;
     inline constexpr uintptr_t viewmatrix = 0x150;
-    inline constexpr uintptr_t PhysicsSenderMaxBandwidthBps = 0x7a95f60;
-    inline constexpr uintptr_t PhysicsSenderMaxBandwidthBpsScaling = 0x7a95f78;
+    inline constexpr uintptr_t PhysicsSenderMaxBandwidthBps = 0x78d4748;
+    inline constexpr uintptr_t PhysicsSenderMaxBandwidthBpsScaling = 0x78d4760;
     inline constexpr uintptr_t DebugDisableTimeoutDisconnect = 0x7917128;
 
     // Attributes
