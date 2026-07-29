@@ -171,8 +171,8 @@ namespace offsets {
     inline constexpr uintptr_t Workspace = 0x160;
     inline constexpr uintptr_t WorkspaceToWorld = 0x3f0;
     inline constexpr uintptr_t viewmatrix = 0x180;
-    inline constexpr uintptr_t PhysicsSenderMaxBandwidthBps = 0x78d4748;
-    inline constexpr uintptr_t PhysicsSenderMaxBandwidthBpsScaling = 0x78d4760;
+    inline constexpr uintptr_t PhysicsSenderMaxBandwidthBps = 0x79bd910;
+    inline constexpr uintptr_t PhysicsSenderMaxBandwidthBpsScaling = 0x79bd928;
     inline constexpr uintptr_t DebugDisableTimeoutDisconnect = 0x7917128;
 
     // Attributes
