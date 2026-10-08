@@ -3,6 +3,10 @@
 #include <cstdint>
 namespace Offsets {
 
+    namespace Manual {
+         inline constexpr uintptr_t ForBuild = 0xcec3ad5889b447cf;
+    }
+
     namespace WorldRoot {
          inline constexpr uintptr_t RaycastBoundDesc = 0x8364bb0;
          inline constexpr uintptr_t RaycastBoundFn = 0x90;
@@ -65,9 +69,35 @@ namespace Offsets {
          inline constexpr uintptr_t Stride = 0x88;
     }
 
+    namespace VisualEngine {
+         inline constexpr uintptr_t RenderView = 0xc30;
+    }
+
+    namespace RenderView {
+         inline constexpr uintptr_t VisualEngine = 0x18;
+         inline constexpr uintptr_t LightingValid = 0x278;
+         inline constexpr uintptr_t SkyValid = 0x4b5;
+         inline constexpr uintptr_t DeviceD3D11 = 0x8;
+    }
+
     namespace Rva {
          inline constexpr uintptr_t SoftOcclusionImplCb = 0x6D6D118;
          inline constexpr uintptr_t SoftOcclusionTargetCb = 0x6D6D0F0;
+    }
+
+    namespace DeviceD3D11 {
+         inline constexpr uintptr_t VTableRva = 0x6d03498;
+         inline constexpr uintptr_t SwapChainPtr = 0x80;
+         inline constexpr uintptr_t ContextObj = 0x1b0;
+    }
+
+    namespace DeviceContextD3D11 {
+         inline constexpr uintptr_t D3DContext = 0x18;
+         inline constexpr uintptr_t DrawSlot = 0x1c;
+    }
+
+    namespace GeometryD3D11 {
+         inline constexpr uintptr_t VTableRva = 0x6d03990;
     }
 
     namespace RenderEntityVtable {
